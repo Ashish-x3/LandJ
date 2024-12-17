@@ -550,7 +550,7 @@ function HomeComponent() {
       <section className="profile-section mb-5">
         <div className="row mt-2 p-1 d-flex justify-content-center text-center ">
           <h2 id="profile">PROFILE</h2>
-          <div className="card mt-2 p-0 profile-card" style={{ width: "35vw" }}>
+          <div className="card mt-2 p-2 profile-card" style={{ width: "35vw" }}>
             <img
               loading="lazy"
               src="/MAGAZINES/MAGAZINES/HOME-AND-DEISGN-TRENDS/pp2.jpg"
